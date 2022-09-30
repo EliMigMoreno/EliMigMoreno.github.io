@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Elijah Miguel Moreno is a undergraduate Biochemistry student at Cal Poly San Luis Obispo. He is hoping to be able to move onto Medical School upon copletion of his bachelors degree in hopes of being the difference in his community. Elijah is curently holding a position on the board for one of the largest Hispanic clubs on campus which is the Latinx Cultural Association and will hold the position of Vice President next school year. Coming from an immigrant family, there is the push to make his families sacrifices all worth it and become a role model for those Mexican-American individuals him so that they may see that they too can make it.
+Elijah Miguel Moreno is a undergraduate Biochemistry student at Cal Poly San Luis Obispo. He is hoping to be able to move onto Medical School upon copletion of his bachelors degree in hopes of being the difference in his community. Elijah is curently holding a position on the board for one of the largest Hispanic clubs on campus which is the Latinx Cultural Association and is the Vice President of Internal Affairs. Coming from an immigrant family, there is the push to make his families sacrifices all worth it and become a role model for those Mexican-American individuals him so that they may see that they too can make it.
 
 Reasearch Aspirations: 
 
